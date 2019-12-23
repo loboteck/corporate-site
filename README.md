@@ -84,7 +84,7 @@ Before we jump into details, you can see below an example of how BEM class namin
 
 ## Blocks
 Blocks are independent, reusable and usually bigger components of a webpage. They can have modifiers and contain elements.
-We can count bigger parts in a webpage like <header>, <nav>, <section>, <form>, <article>, <footer> as block examples.
+We can count bigger parts in a webpage like ```<header>, <nav>, <section>, <form>, <article>, <footer>``` as block examples.
 
 ## Elements
 Elements are children of blocks. An element can only have 1 parent Block, and can’t be used independently outside of that block.
