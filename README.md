@@ -47,7 +47,7 @@ Explain how to run the automated tests for this system
 Explain what these tests test and why
 
 ```
-Give an example
+Need to write about tests
 ```
 
 ## Coding style
@@ -100,7 +100,6 @@ The naming of an element must start with its parent Block name, 2 underscores af
  </ul>
 </header>
 ```
-
 Since youtube-header is the block, the naming convention of its elements can be written like this:
 
 ```
