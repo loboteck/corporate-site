@@ -162,8 +162,9 @@ We use [Github](http://github.com/) for versioning control all majore releases w
 
 ## Authors
 
-* **Kevin Lopez** - *Project Lead* - [Email](lopezkevin175@gmail.com)
-* **Ismael Fernandez** - *Full stack Developer* - [Email](edy1017@live.com)
+* **Kevin Lopez** - *Project Lead* - [Email](klopez@loboteck.com)
+* **Ismael Fernandez** - *Full stack Developer* - [Email](ifernandez@loboteck.com)
+* **Yairo Fernandez** - *Front end Developer* - [Email](yfernandez@loboteck.com)
 
 
 See also the list of [contributors](https://github.com/loboteck/corporate-site/graphs/contributors) who participated in this project.
