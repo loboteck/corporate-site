@@ -150,9 +150,10 @@ Element — Modifier:
 }
 ```
 
-## Deployment
+## Deployment 💫
 
-Add additional notes about how to deploy this on a live system
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/sites/loboteck/overview)
+Our code deployment is automatically deployed to netlify once this repository's master branch has been updated.
 
 ## Built With
 
